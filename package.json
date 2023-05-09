@@ -1,11 +1,11 @@
 {
-  "name": "compass-sass-mixins",
-  "version": "0.12.7",
-  "author": "Andrey Stegno <a.stegno@gmail.com> (https://github.com/askucher)",
+  "name": "@qed42/compass-sass-mixins",
+  "version": "0.0.1",
+  "author": "Rahul Savaria <rahul.savaria@qed42.com> (https://github.com/rahulsavaria)",
   "description": "Compass sass stylesheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/askucher/compass-sass-mixins"
+    "url": "git://github.com/rahulsavaria/compass-sass-mixins"
   },
   "main": "lib/*",
   "keywords": [
@@ -32,7 +32,7 @@
     "node-sass": "^2.0.0-beta"
   },
   "bugs": {
-    "url": "https://github.com/askucher/compass-sass-mixins/issues"
+    "url": "https://github.com/rahulsavaria/compass-sass-mixins/issues"
   },
-  "homepage": "https://github.com/askucher/compass-sass-mixins"
+  "homepage": "https://github.com/rahulsavaria/compass-sass-mixins"
 }
